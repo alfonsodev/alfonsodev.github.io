@@ -6,12 +6,12 @@ kramdown:
   auto_ids:     true
 
 # Server
-source: "site"
+source: ./
 destination: ./_gh_pages
 host:           0.0.0.0
 port:           9001
-baseurl:        "/"
+baseurl: /
 url:            "https://alfonsodev.github.io"
 encoding:       UTF-8
 
-theme: jekyll-theme-hacker
+remote-theme: wowthemesnet/mediumish-theme-jekyll
