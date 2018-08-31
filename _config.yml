@@ -8,9 +8,5 @@ kramdown:
 # Server
 source: "site"
 destination: ./_gh_pages
-host:           0.0.0.0
-port:           9001
-baseurl:        ""
-url:            "https://alfonsodev.github.io"
 encoding:       UTF-8
 
