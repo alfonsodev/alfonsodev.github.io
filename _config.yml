@@ -10,3 +10,5 @@ source: "site"
 destination: ./_gh_pages
 encoding:       UTF-8
 
+
+theme: jekyll-theme-hacker
